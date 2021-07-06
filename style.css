@@ -35,4 +35,15 @@ a {
 }
 .top-button {
   background-image: url(top-banner.png);
+  background-repeat: no-repeat;
+  margin: 0px;
+}
+.Dream-big img {
+  width: 66%;
+  margin-top: 56px;
+}
+.Dream-big {
+  background-position: right;
+  background-image: url(dream-bg.png);
+  background-repeat: no-repeat;
 }
